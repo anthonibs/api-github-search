@@ -14,6 +14,10 @@ export const SideBar = styled.aside`
 	min-width: 20rem;
 	max-height: 100vh;
 	overflow-y: hidden;
+
+	@media (max-width: ${({ theme }) => theme.breakpoints.md}) {
+		padding: 0.825rem;
+	}
 `;
 
 export const Main = styled.main`

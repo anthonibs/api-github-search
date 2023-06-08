@@ -28,6 +28,7 @@ module.exports = {
 		'jsx-quotes': ['error', 'prefer-single'],
 		'react/react-in-jsx-scope': 'off',
 		'prefer-const': 'off',
+		'array-callback-return': 'warn',
 		'react/self-closing-comp': [
 			'error',
 			{
@@ -35,5 +36,6 @@ module.exports = {
 				html: false,
 			},
 		],
+		'react/require-default-props': [1],
 	},
 };

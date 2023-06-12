@@ -1,0 +1,89 @@
+{
+	"users": [
+		{
+			"login": "anthonibs",
+			"id": 77931577,
+			"node_id": "MDQ6VXNlcjc3OTMxNTc3",
+			"avatar_url": "https://avatars.githubusercontent.com/u/77931577?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/anthonibs",
+			"html_url": "https://github.com/anthonibs",
+			"followers_url": "https://api.github.com/users/anthonibs/followers",
+			"following_url": "https://api.github.com/users/anthonibs/following{/other_user}",
+			"gists_url": "https://api.github.com/users/anthonibs/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/anthonibs/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/anthonibs/subscriptions",
+			"organizations_url": "https://api.github.com/users/anthonibs/orgs",
+			"repos_url": "https://api.github.com/users/anthonibs/repos",
+			"events_url": "https://api.github.com/users/anthonibs/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/anthonibs/received_events",
+			"type": "User",
+			"site_admin": false,
+			"name": "Anthoni Broering dos Santos",
+			"company": null,
+			"blog": "https://www.linkedin.com/in/anthoni-broering-dos-santos/",
+			"location": "Florianópolis ",
+			"email": null,
+			"hireable": null,
+			"bio": "Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estudando HTML, CSS e JavaScript",
+			"twitter_username": "Anthonibs",
+			"public_repos": 25,
+			"public_gists": 0,
+			"followers": 20,
+			"following": 39,
+			"created_at": "2021-01-24T16:34:18Z",
+			"updated_at": "2023-06-08T17:47:34Z"
+		}
+	],
+	"repos": [
+		{
+			"id": "1",
+			"name": "Repo 1",
+			"description": "Descrição",
+			"html_url": "https://github.com/felipefontoura",
+			"language": "JavaScript"
+		},
+		{
+			"id": "2",
+			"name": "Repo 2",
+			"description": "Descrição",
+			"html_url": "https://github.com/felipefontoura",
+			"language": "CSS"
+		},
+		{
+			"id": "5",
+			"name": "Repo 3",
+			"description": "Descrição",
+			"html_url": "https://github.com/felipefontoura",
+			"language": "PHP"
+		},
+		{
+			"id": "6",
+			"name": "Repo 4",
+			"description": "Descrição",
+			"html_url": "https://github.com/felipefontoura",
+			"language": "Ruby"
+		},
+		{
+			"id": "8",
+			"name": "Repo 5",
+			"description": "Descrição",
+			"html_url": "https://github.com/felipefontoura",
+			"language": "Java"
+		},
+		{
+			"id": "12",
+			"name": "Repo 6",
+			"description": "Descrição",
+			"html_url": "https://github.com/felipefontoura",
+			"language": "React"
+		},
+		{
+			"id": "99",
+			"name": "React Estudos",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+			"html_url": "https://github.com/felipefontoura",
+			"language": "React"
+		}
+	]
+}

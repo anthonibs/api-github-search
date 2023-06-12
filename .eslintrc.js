@@ -37,5 +37,6 @@ module.exports = {
 			},
 		],
 		'react/require-default-props': [1],
+		'no-unused-vars': 'warn'
 	},
 };

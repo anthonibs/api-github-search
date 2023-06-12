@@ -16,6 +16,7 @@ export const Container = styled.div`
 export const Selector = styled.button`
 	display: flex;
 	align-items: center;
+	cursor: pointer;
 	justify-content: space-between;
 	background-color: ${({ theme }) => theme.colors.container};
 	color: ${props => props.color || props.theme.colors.light};
@@ -49,6 +50,7 @@ export const Cleaner = styled.button`
 	color: ${({ theme }) => theme.colors.text};
 	border: none;
 	text-align: left;
+	cursor: pointer;
 	padding: 1rem;
 
 	&:hover {

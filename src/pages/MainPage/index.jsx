@@ -14,7 +14,7 @@ const MainPage = () => {
 			<S.Logo
 				src={githubLogo}
 				height='256'
-				alt='Dev Samurai'
+				alt='Logo GitHub'
 			/>
 			<S.Title>API GITHUB</S.Title>
 
@@ -24,9 +24,9 @@ const MainPage = () => {
 					value={login}
 					onChange={event => setLogin(event.target.value)}
 				/>
-				<S.Button>
+				<S.MyLink  to={`/${login}/repositories`}>
 					<LuSearch size={24} />
-				</S.Button>
+				</S.MyLink>
 			</S.Form>
 		</S.Container>
 	);

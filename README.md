@@ -1,7 +1,5 @@
-# Aplicação template
+# API GITHUB SEARCH
 
-Esta é uma aplicação gerada pelo template
-[React básico da Dev Samurai](https://github.com/DevSamurai/cra-template-basic).
+O projeto tem como objetivo criar uma aplicação web utilizando React, onde os usuários podem consultar os repositórios do GitHub. Através da integração com a API do GitHub, os usuários podem buscar e visualizar informações detalhadas de repositórios, como descrição, linguagem utilizada, número de estrelas e muito mais. A arquitetura modular e reutilizável dos componentes garante a manutenção e escalabilidade do projeto. Pré-requisitos: conhecimentos de Lógica de Programação e JavaScript.
 
-Depois que criar a sua aplicação, sobrescreva este arquivo README.md utilizando as
-[melhores práticas](https://www.makeareadme.com/) para isso.
+Este projeto foi realizado com o curso [Dev Samurai](https://st.devsamurai.com.br/uwyaqr77/index.html?xpromo=ig-bio) para uma base sólida nos conceitos de CRA Templates, Styled Components, API, Rotas e arquitetura de múltiplos componentes. Agradeço ao [Felipe Fontoura](https://www.instagram.com/devsamurai/), instrutor do curso, por ter compartilhado o seu conhecimento e recursos valiosos para o sucesso deste projeto.

@@ -12,7 +12,7 @@ export const AppRoutes = () => (
 			element={<MainPage />}
 		/>
 		<Route
-			path='/repositories'
+			path='/:login/repositories'
 			element={<RepositoriesPage />}
 		/>
 	</Routes>
